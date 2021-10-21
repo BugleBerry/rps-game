@@ -1,0 +1,1 @@
+This game is meant to teach javascript and DOM manipulation
